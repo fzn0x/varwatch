@@ -1,4 +1,4 @@
-// Type definitions for 3box 1.22
+// Type definitions for varwatch
 // Project: https://github.com/bl0cknumber/varwatch
 // Definitions by: Muhammad Fauzan / bl0cknumber (https://github.com/bl0cknumber)
 
