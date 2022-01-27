@@ -1,7 +1,8 @@
 {
   "name": "varwatch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Varwatch is 📦 tiny library using ES6 Proxies and EventEmitter to watch for state changes and retrieves 🚀",
+  "repository": "bl0cknumber/varwatch",
   "main": "index.js",
   "type": "module",
   "keywords": [

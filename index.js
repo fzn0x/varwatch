@@ -64,9 +64,7 @@ export default class Varwatch {
   }
 
   isPaused(eventName) {
-    if (this.pausedEvents[eventName]) {
-      return true;
-    }
+    return this.pausedEvents[eventName];
   }
 
   pause(eventName) {

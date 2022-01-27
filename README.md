@@ -1,5 +1,7 @@
 ## Varwatch :eyes:
 
+![varwatch](varwatch.png)
+
 Varwatch is :package: tiny library (no dependencies) using ES6 Proxies and EventEmitter to watch for state changes and **retrieves :rocket:**. Access proxy data easily and without changing the way native proxy callbacks are used.
 
 **Built simple and made easy.**
